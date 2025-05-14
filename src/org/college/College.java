@@ -24,7 +24,10 @@ public class College {
 		s.studentId();
 		h.hostelName();
 		d.deptName();
+		System.out.println("hi");
 		System.out.println("hello");
+		
+
 	}
 	
 
